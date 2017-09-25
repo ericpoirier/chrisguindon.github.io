@@ -4,8 +4,8 @@ module.exports = (grunt) ->
         'gh-pages':
             options:
                 base: 'dist'
+                branch: 'master'
             src: ['**']
-             
         
         watch:
             options:
