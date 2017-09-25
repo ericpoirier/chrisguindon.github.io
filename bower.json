@@ -1,0 +1,21 @@
+{
+  "name": "chrisguindon.github.io",
+  "description": "Christopher Guindon - Eclipse Foundation - Lead Web Developer Blog",
+  "main": "Gruntfile.js",
+  "authors": [
+    "Christopher Guindon"
+  ],
+  "license": "EPL",
+  "homepage": "https://github.com/chrisguindon/chrisguindon.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "hugo-cactus-theme": "https://github.com/digitalcraftsman/hugo-cactus-theme.git"
+  }
+}

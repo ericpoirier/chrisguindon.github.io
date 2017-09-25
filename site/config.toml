@@ -1,0 +1,53 @@
+# Site settings
+baseurl = "/"
+languageCode = "en-us"
+title = "Christopher Guindon - Eclipse Foundation - Lead Web Developer"
+theme = "hugo-cactus-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-24646327-8"
+# Disable comments by leaving disqusShortname empty
+disqusShortname = ""
+
+[params]
+  name = "Christopher Guindon"
+  description = "Hello world! When I am not at a computer, which is rare, I spend my time playing the drums, watching hockey or at the top of a hill snowboarding. I am also very passionate about music and live concerts!"
+  bio = "Lead Web Application Developper at The Eclipse Foundation"
+  # Enter optionally your twitter account
+  twitter = "chrisguindon"
+  enableRSS = true
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = []
+  customJS  = []
+
+  # The variables below are optionally too and can be used to
+  # translate or customize each string of the theme.
+
+  # Navigation links
+  home = ""
+  subscribe = ""
+  # Pagination links
+  olderPosts = ""
+  newerPosts = ""
+  readMore = ""
+  copyright = ""
+  # Sharing options and author information in posts
+  aboutAuthor = "I'm an blogger."
+  tweet = ""
+  share = ""
+  # 404 page
+  title404 = ""
+  subtitle404 = ""
+
+  # Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+  iconFont = "mono-social"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "circle"
+
+# Add additional social link entries underneath
+[social]
+    twitter  = "https://www.twitter.com/chrisguindon"
+    facebook = "https://www.facebook.com/christopher.guindon"
+    github   = "https://www.github.com/chrisguindon"
+
