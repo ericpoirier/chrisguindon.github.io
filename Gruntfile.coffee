@@ -46,7 +46,7 @@ module.exports = (grunt) ->
             args.push '--buildDrafts=true'
             args.push '--buildFuture=true'
         else
-            args.push '--baseUrl=https://chrisguindon.com'
+            args.push '--baseUrl=https://www.chrisguindon.com'
         hugo = require('child_process').spawn 'hugo', args, stdio: 'inherit'
         (hugo.on e, -> done(true)) for e in ['exit', 'error']
 
