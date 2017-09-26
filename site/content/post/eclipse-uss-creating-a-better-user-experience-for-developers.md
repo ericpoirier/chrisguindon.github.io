@@ -1,8 +1,8 @@
 ---
 author: "Christopher Guindon"
 date: 2016-06-20
-linktitle: "(Presentation) Eclipse USS: Creating a Better User Experience for Developers"
-title:  "The Eclipse User Storage Service Creating a Better User Experience for Developers"
+linktitle: "Eclipse USS: Creating a Better User Experience for Developers"
+title: "The Eclipse User Storage Service: Creating a Better User Experience for Developers"
 ---
 
 {{< youtube xI8PdCNegO0 >}}

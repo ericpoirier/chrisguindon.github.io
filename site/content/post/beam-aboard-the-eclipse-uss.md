@@ -1,7 +1,7 @@
 ---
 author: "Christopher Guindon"
 date: 2016-06-09
-linktitle: (Presentation) Beam aboard the Eclipse USS
+linktitle: Beam aboard the Eclipse USS
 title:  Beam aboard the Eclipse USS
 ---
 
