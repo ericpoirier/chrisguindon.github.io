@@ -1,9 +1,16 @@
----
-author: "Christopher Guindon"
-date: 2016-06-09
-linktitle: Beam aboard the Eclipse USS
-title:  Beam aboard the Eclipse USS
----
++++
+author = "Christopher Guindon"
+date = "2016-06-09"
+linktitle = "Beam aboard the Eclipse USS"
+title =  "Beam aboard the Eclipse USS"
+tags = [
+    "eclipse",
+    "presentation"
+]
+categories = [
+    "technology"
+]
++++
 
 [EclipseCon](https://www.eclipsecon.org) is all about community. Contributors, adopters, extenders, service providers, consumers and business and research organizations gather to share their expertise and learn from each other. 
 
