@@ -6,7 +6,7 @@ module.exports = (grunt) ->
                 base: 'dist'
                 branch: 'master'
             src: ['**']
-            
+
         clean:['dist', 'dev']
 
         watch:
@@ -27,7 +27,7 @@ module.exports = (grunt) ->
                     protocol: 'http'
                     base: 'dev'
                     livereload: true
-                    
+
         copy: main: files: [
             {
                 cwd: './bower_components/hugo-cactus-theme/'
@@ -45,6 +45,8 @@ module.exports = (grunt) ->
             args.push '--baseUrl=http://127.0.0.1:8080'
             args.push '--buildDrafts=true'
             args.push '--buildFuture=true'
+        else
+            args.push '--baseUrl=https://chrisguindon.com'
         hugo = require('child_process').spawn 'hugo', args, stdio: 'inherit'
         (hugo.on e, -> done(true)) for e in ['exit', 'error']
 
@@ -55,7 +57,7 @@ module.exports = (grunt) ->
         'grunt-gh-pages'
         'grunt-contrib-clean'
     ]
-    
+
     grunt.registerTask 'dev', ['copy', 'clean', 'hugo:dev']
     grunt.registerTask 'default', ['copy', 'clean', 'hugo:dist', 'gh-pages']
     grunt.registerTask 'edit', ['connect', 'watch']

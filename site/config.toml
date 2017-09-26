@@ -33,7 +33,7 @@ disqusShortname = ""
   readMore = ""
   copyright = ""
   # Sharing options and author information in posts
-  aboutAuthor = "I'm an blogger."
+  aboutAuthor = "I have over 12 years of professional experience in web development!"
   tweet = ""
   share = ""
   # 404 page
@@ -50,4 +50,5 @@ disqusShortname = ""
     twitter  = "https://www.twitter.com/chrisguindon"
     facebook = "https://www.facebook.com/christopher.guindon"
     github   = "https://www.github.com/chrisguindon"
+    linkedin   = "https://www.linkedin.com/in/chrisguindon/"
 
