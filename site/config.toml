@@ -11,7 +11,7 @@ disqusShortname = "chrisguindon"
 [params]
   name = "Christopher Guindon"
   description = "Hello world! When I am not at a computer, which is rare, I spend my time playing the drums, watching hockey or at the top of a hill snowboarding. I am also very passionate about music and live concerts!"
-  bio = "Lead Web Application Developper at The Eclipse Foundation"
+  bio = "Lead Web Developper at The Eclipse Foundation"
   # Enter optionally your twitter account
   twitter = "chrisguindon"
   enableRSS = true
@@ -33,7 +33,7 @@ disqusShortname = "chrisguindon"
   readMore = ""
   copyright = "Copyright &copy; 2009-2017 Christopher Guindon. All Rights Reserved."
   # Sharing options and author information in posts
-  aboutAuthor = "I have over 12 years of professional experience in web development!"
+  aboutAuthor = "Lead Web Developper at The Eclipse Foundation"
   tweet = ""
   share = ""
   # 404 page
