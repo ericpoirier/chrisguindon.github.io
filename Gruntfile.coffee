@@ -6,7 +6,9 @@ module.exports = (grunt) ->
                 base: 'dist'
                 branch: 'master'
             src: ['**']
-        
+            
+        clean:['dist', 'dev']
+
         watch:
             options:
                 atBegin: true
@@ -51,8 +53,9 @@ module.exports = (grunt) ->
         'grunt-contrib-connect'
         'grunt-contrib-copy'
         'grunt-gh-pages'
+        'grunt-contrib-clean'
     ]
     
-    grunt.registerTask 'dev', ['copy', 'hugo:dev']
-    grunt.registerTask 'default', ['copy', 'hugo:dist', 'gh-pages']
+    grunt.registerTask 'dev', ['copy', 'clean', 'hugo:dev']
+    grunt.registerTask 'default', ['copy', 'clean', 'hugo:dist', 'gh-pages']
     grunt.registerTask 'edit', ['connect', 'watch']

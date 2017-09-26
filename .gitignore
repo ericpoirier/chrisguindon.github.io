@@ -6,3 +6,4 @@
 /site/themes/
 /npm-debug.log
 /.grunt/
+/hugo_cache/
