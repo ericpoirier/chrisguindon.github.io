@@ -8,6 +8,14 @@ module.exports = (grunt) ->
             src: ['**']
 
         clean:['dist', 'dev']
+        
+        imagemin:
+          dynamic: files: [ {
+              expand: true
+              cwd: 'site/static/files/images/'
+              src: [ '**/*.{png,jpg,gif}' ]
+              dest: 'site/static/images/'
+            } ]
 
         watch:
             options:
@@ -56,8 +64,9 @@ module.exports = (grunt) ->
         'grunt-contrib-copy'
         'grunt-gh-pages'
         'grunt-contrib-clean'
+        'grunt-contrib-imagemin'
     ]
 
-    grunt.registerTask 'dev', ['copy', 'clean', 'hugo:dev']
-    grunt.registerTask 'default', ['copy', 'clean', 'hugo:dist', 'gh-pages']
+    grunt.registerTask 'dev', ['copy', 'clean', 'imagemin', 'hugo:dev']
+    grunt.registerTask 'default', ['copy', 'clean', 'imagemin', 'hugo:dist', 'gh-pages']
     grunt.registerTask 'edit', ['connect', 'watch']
