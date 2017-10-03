@@ -47,7 +47,7 @@ Here's a top-level list of items that we worked on in Q3 2017:
 
 ## Api.eclipse.org
 ### Bug 516914 - Create public documentation for api.eclipse.org REST Api
-![Documentation for api.eclipse.org](/images/report-q3/api-eclipse-org.png "Documentation for api.eclipse.org")
+![Documentation for api.eclipse.org](/images/report-q3/api-eclipse-org.jpg "Documentation for api.eclipse.org")
 
 The documentation for [api.eclipse.org](https://api.eclipse.org) was  all over the place and we needed to [fix](https://bugs.eclipse.org/bugs/show_bug.cgi?id=516914) that.
 
@@ -61,7 +61,7 @@ If you are interested in this project, our documentation source code is availabl
 
 
 ### Bug 502485 - Activity tab - Error reports from AERI
-![Error reports from AERI](/images/report-q3/accounts-eclipse-org-aeri-reports.png "Error reports from AERI")
+![Error reports from AERI](/images/report-q3/accounts-eclipse-org-aeri-reports.jpg "Error reports from AERI")
 
 As of June 2015, with the Eclipse Mars simultaneous release, all Eclipse packages are shipped with the [Automated Error Reporting client](https://wiki.eclipse.org/EPP/Logging) (called AERI). 
 
@@ -101,7 +101,7 @@ I was really excited to create these digital documents that will be included in 
 For more information, you can visit the Eclipse Foundation [press release](https://www.eclipse.org/org/press-release/20170829eplv2.php).
 
 ### Bug 261658 - status.eclipse.org
-![status.eclipse.org](/images/report-q3/status-eclipse-org.png "Eclipse Foundation: Status page.")
+![status.eclipse.org](/images/report-q3/status-eclipse-org.jpg "Eclipse Foundation: Status page.")
 
 Denis, our IT Director, built this very nifty [status page](https://status.eclipse.org) and by doing so, won the award for closing the oldest [bug](https://bugs.eclipse.org/bugs/show_bug.cgi?id=261658) this quarter! 
 
@@ -149,7 +149,7 @@ You can test this new change now on the [Eclipse Marketplace](https://marketplac
 
 ## Eclipse Project Management Infrastructure (PMI)
 ### Bug 519694 - Remove solr on projects.eclipse.org
-![New project search page](/images/report-q3/projects-eclipse-org-solr.png "New project search page")
+![New project search page](/images/report-q3/projects-eclipse-org-solr.jpg "New project search page")
 
 We've been using [Apache Solr](http://lucene.apache.org/solr/) for a few years now to run the Eclipse Projects search page. The search result page was very quick to load but our users often reported issues regarding the results.
 
@@ -175,7 +175,7 @@ The [FOSS4G - North America 2018](https://2018.foss4g-na.org/) website is now av
 
 
 ### Bug 514542 - Create initial website for openPASS
-![OpenPASS Working Group](/images/report-q3/openpass.png "OpenPASS Working Group")
+![OpenPASS Working Group](/images/report-q3/openpass.jpg "OpenPASS Working Group")
 
 The goal of the Eclipse OpenPASS Working Group is to support the development of advanced driver assistance systems (also known as autonomous driving systems) providing tools and adapters for standardized openly-available and vendor-neutral platforms for simulation of traffic scenarios.
 
