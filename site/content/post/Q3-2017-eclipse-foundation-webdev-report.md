@@ -1,6 +1,6 @@
 +++
 author = "Christopher Guindon"
-date = "2017-10-02"
+date = "2017-10-03"
 linktitle = "Eclipse Foundation Webdev Report [Q3 2017]"
 title =  "Eclipse Foundation Webdev Report [Q3 2017]"
 tags = [
@@ -25,23 +25,23 @@ My blog posts will be on the following topics:
 
 Here's a top-level list of items that we worked on in Q3 2017:
 
-* [Api.eclipse.org]({{<ref "#api-eclipse-org" >}}) 
-    * [Bug 516914 - Create public documentation for api.eclipse.org REST Api]({{<ref "#bug-516914-create-public-documentation-for-api-eclipse-org-rest-api" >}}) 
-    * [Bug 502485 - Activity tab - Error reports from AERI]({{<ref "#bug-502485-activity-tab-error-reports-from-aeri" >}}) 
-* [Eclipse.org]({{<ref "#eclipse-org" >}}) 
+* [Api.eclipse.org](/post/q3-2017-eclipse-foundation-webdev-report/#api-eclipse-org) 
+    * [Bug 516914 - Create public documentation for api.eclipse.org REST Api](/post/q3-2017-eclipse-foundation-webdev-report/#bug-516914-create-public-documentation-for-api-eclipse-org-rest-api) 
+    * [Bug 502485 - Activity tab - Error reports from AERI](/post/q3-2017-eclipse-foundation-webdev-report/#bug-502485-activity-tab-error-reports-from-aeri) 
+* [Eclipse.org](/post/q3-2017-eclipse-foundation-webdev-report/#eclipse-org) 
     * [Bug 519264 - Create an Eclipse Foundation webdev blog](https://bugs.eclipse.org/bugs/show_bug.cgi?id=519264) 
-    * [Infra 2507 - Donate Campaign Plan - Fall 2017]({{<ref "#infra-2507-donate-campaign-plan-fall-2017" >}}) 
-    * [Bug 521084 - Add epl-2.0 to the website]({{<ref "#bug-521084-add-epl-2-0-to-the-website" >}}) 
-    * [Bug 261658 - status.eclipse.org]({{<ref "#bug-261658-status-eclipse-org" >}}) 
-* [Eclipse Marketplace]({{<ref "#marketplace" >}}) 
-    * [Bug 520850 - Possible adware in marketplace plugin (Eclipse Class Decompiler)]({{<ref "#bug-520850-possible-adware-in-marketplace-plugin-eclipse-class-decompiler" >}}) 
-    * [Bug 501861 - Selecting a favorite on Eclipse Marketplace is slow]({{<ref "#bug-501861-selecting-a-favorite-on-eclipse-marketplace-is-slow" >}}) 
-* [Eclipse Project Management Infrastructure (PMI)]({{<ref "#eclipse-project-management-infrastructure-pmi" >}}) 
-    * [Bug 519694 - Remove solr on projects.eclipse.org]({{<ref "#bug-519694-remove-solr-on-projects-eclipse-org" >}}) 
+    * [Infra 2507 - Donate Campaign Plan - Fall 2017](/post/q3-2017-eclipse-foundation-webdev-report/#infra-2507-donate-campaign-plan-fall-2017) 
+    * [Bug 521084 - Add epl-2.0 to the website](/post/q3-2017-eclipse-foundation-webdev-report/#bug-521084-add-epl-2-0-to-the-website) 
+    * [Bug 261658 - status.eclipse.org](/post/q3-2017-eclipse-foundation-webdev-report/#bug-261658-status-eclipse-org) 
+* [Eclipse Marketplace](/post/q3-2017-eclipse-foundation-webdev-report/#marketplace) 
+    * [Bug 520850 - Possible adware in marketplace plugin (Eclipse Class Decompiler)](/post/q3-2017-eclipse-foundation-webdev-report/#bug-520850-possible-adware-in-marketplace-plugin-eclipse-class-decompiler) 
+    * [Bug 501861 - Selecting a favorite on Eclipse Marketplace is slow](/post/q3-2017-eclipse-foundation-webdev-report/#bug-501861-selecting-a-favorite-on-eclipse-marketplace-is-slow) 
+* [Eclipse Project Management Infrastructure (PMI)](/post/q3-2017-eclipse-foundation-webdev-report/#eclipse-project-management-infrastructure-pmi) 
+    * [Bug 519694 - Remove solr on projects.eclipse.org](/post/q3-2017-eclipse-foundation-webdev-report/#bug-519694-remove-solr-on-projects-eclipse-org) 
     * [Bug 469321 - Portal Shutdown plan: Transfer all portal functionality to PMI, website](https://bugs.eclipse.org/bugs/show_bug.cgi?id=469321) 
-* [Eclipse Working Groups]({{<ref "#eclipse-working-groups" >}}) 
-    * [Bug 520121 - Need a new conference website for FOSS4G NA 2018]({{<ref "#bug-520121-need-a-new-conference-website-for-foss4g-na-2018" >}}) 
-    * [Bug 514542 - Create initial website for openPASS]({{<ref "#bug-514542-create-initial-website-for-openpass" >}}) 
+* [Eclipse Working Groups](/post/q3-2017-eclipse-foundation-webdev-report/#eclipse-working-groups) 
+    * [Bug 520121 - Need a new conference website for FOSS4G NA 2018](/post/q3-2017-eclipse-foundation-webdev-report/#bug-520121-need-a-new-conference-website-for-foss4g-na-2018) 
+    * [Bug 514542 - Create initial website for openPASS](/post/q3-2017-eclipse-foundation-webdev-report/#bug-514542-create-initial-website-for-openpass) 
 
 ---
 
