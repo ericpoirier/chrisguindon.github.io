@@ -1,8 +1,8 @@
 +++
 author = "Christopher Guindon"
 date = "2017-11-15"
-linktitle = "Say Goodbye to the Eclipse Nova Theme"
-title =  "Say Goodbye to the Eclipse Nova Theme"
+linktitle = "Say Goodbye to the Eclipse Foundation Nova Theme"
+title =  "Say Goodbye to the Eclipse Foundation Nova Theme"
 tags = [
     "eclipse",
     "webdev"
