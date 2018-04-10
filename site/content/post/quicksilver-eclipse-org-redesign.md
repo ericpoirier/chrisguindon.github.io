@@ -1,6 +1,6 @@
 +++
 author = "Christopher Guindon"
-date = "2018-04-10 12:35:00"
+date = "2018-04-10"
 linktitle = "Quicksilver: eclipse.org new look and feel"
 title =  "Quicksilver: eclipse.org new look and feel"
 tags = [
