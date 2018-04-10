@@ -43,7 +43,7 @@ We plan on changing our look and feel gradually. The following tasks are going t
 * Drupal themes for [Eclipse Marketplace](https://marketplace.eclipse.org), [Eclipse PMI](https://projects.eclipse.org.) and [Eclipse User Profiles](https://accounts.eclipse.org)
 * New Hugo theme for static websites
 * Mediawiki theme for [Eclipsepedia](https://wiki.eclipse.org)
-* New theme for [Planet Eclipse](https://planeteclipse.org)
+* New theme for [Planet Eclipse](http://planeteclipse.org/planet/)
 * Updated header and footer for [Eclipse Bugzilla](https://bugs.eclipse.org/bugs/), [Gerrit](https://git.eclipse.org/r/), [Eclipse CI](https://ci.eclipse.org/) and [Eclipse Git repositories](https://git.eclipse.org/c/)
 * New FUDforum theme for the [Eclipse Community Forums](https://eclipse.org/forums/).
 
