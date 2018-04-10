@@ -34,7 +34,7 @@ You can participate and contribute to this project by submitting feedback on [Bu
 
 Quicksilver is going to be available on **April 19th, 2018** for [www.eclipse.org](https://www.eclipse.org) only. We will continue the rollout across our broader web properties over the coming weeks.
 
-Technology-wise, Quicksilver is an extension of Solstice. Since this is not a complete overhaul of our existing website, we’re expecting the transition from Solstice to Quicksilver to be fairly straightforward. Website maintainers for Eclipse projects and working groups should know that the colors are going to change but we don’t expect to break any existing Eclipse project websites.
+Technology-wise, Quicksilver is an extension of Solstice. Since this is not a complete overhaul of our existing codebase, we’re expecting the transition from Solstice to Quicksilver to be fairly straightforward. Website maintainers for Eclipse projects and working groups should know that the colors are going to change but we don’t expect to break any existing Eclipse project websites.
 
 ## Future plans
 
