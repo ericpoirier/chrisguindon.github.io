@@ -40,7 +40,7 @@ Technology-wise, Quicksilver is an extension of Solstice. Since this is not a co
 
 We plan on changing our look and feel gradually. The following tasks are going to get done after the initial release of Quicksilver:
 
-* Drupal themes for [Eclipse Marketplace](https://marketplace.eclipse.org), [Eclipse PMI](https://projects.eclipse.org.) and [Eclipse User Profiles](https://accounts.eclipse.org)
+* Drupal themes for [Eclipse Marketplace](https://marketplace.eclipse.org), [Eclipse PMI](https://projects.eclipse.org) and [Eclipse User Profiles](https://accounts.eclipse.org)
 * New Hugo theme for static websites
 * Mediawiki theme for [Eclipsepedia](https://wiki.eclipse.org)
 * New theme for [Planet Eclipse](http://planeteclipse.org/planet/)
