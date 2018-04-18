@@ -7,10 +7,6 @@ install:
 script:
   - hugo --source=site --baseUrl=https://www.chrisguindon.com
 
-branches:
-  only:
-    - master
-
 deploy:
   local_dir: public
   repo: chrisguindon/chrisguindon.github.io
