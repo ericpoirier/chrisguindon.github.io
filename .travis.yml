@@ -9,7 +9,7 @@ script:
 
 branches:
   only:
-    - src
+    - master
 
 deploy:
   local_dir: public
