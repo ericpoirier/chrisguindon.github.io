@@ -1,6 +1,8 @@
 # chrisguindon.github.io
 My personal website.
 
+[![Build Status](https://travis-ci.org/chrisguindon/chrisguindon.github.io.svg?branch=src)](https://travis-ci.org/chrisguindon/chrisguindon.github.io)
+
 # solstice-hugo-starterkit
 
 Solstice hugo starterkit, is a tool that allows you to quickly get started with Hugo. This tools is primarly aimed for Eclipse projects interested in migrating their website to Hugo.
