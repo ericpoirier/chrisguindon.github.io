@@ -5,7 +5,7 @@ install:
   - export PATH="/tmp:$PATH"
 
 script:
-  - hugo --source=site --baseUrl=https://www.chrisguindon.com --destination=public
+  - hugo --source=site --baseUrl=https://www.chrisguindon.com --destination=../public
 
 deploy:
   local-dir: public
