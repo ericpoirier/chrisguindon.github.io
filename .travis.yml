@@ -1,11 +1,12 @@
-language: go
+sudo: true
+dist: trusty
 
 install:
-  - curl -sSL https://github.com/gohugoio/hugo/releases/download/v0.39/hugo_0.39_Linux-64bit.tar.gz | tar -zxf - -C /tmp/
-  - export PATH="/tmp:$PATH"
+  - sudo apt-get --yes install snapd
+  - sudo snap install hugo
 
 script:
-  - hugo --source=site --baseUrl=https://www.chrisguindon.com --destination=../public
+  - /snap/bin/hugo --source=site --baseUrl=https://www.chrisguindon.com --destination=../public
 
 deploy:
   local-dir: public
