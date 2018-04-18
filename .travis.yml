@@ -13,6 +13,7 @@ deploy:
   repo: chrisguindon/chrisguindon.github.io
   target-branch: master
   provider: pages
+  keep-history: true
   skip-cleanup: true
   github_token: $GITHUB_TOKEN
   fqdn: www.chrisguindon.com
