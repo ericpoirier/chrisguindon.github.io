@@ -1,0 +1,25 @@
+language: go
+
+go:
+  - master
+
+install:
+  - go get github.com/spf13/hugo
+
+script:
+  - hugo --source=site --baseUrl=https://www.chrisguindon.com
+
+branches:
+  only:
+    - src
+
+deploy:
+  local_dir: public
+  repo: chrisguindon/chrisguindon.github.io
+  target_branch: master 
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  fqdn: www.chrisguindon.com
+  on:
+    branch: master
