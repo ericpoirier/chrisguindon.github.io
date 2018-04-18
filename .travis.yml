@@ -8,11 +8,11 @@ script:
   - hugo --source=site --baseUrl=https://www.chrisguindon.com
 
 deploy:
-  local_dir: public
+  local-dir: public
   repo: chrisguindon/chrisguindon.github.io
   target-branch: master 
   provider: pages
-  skip_cleanup: true
+  skip-cleanup: true
   github_token: $GITHUB_TOKEN
   fqdn: www.chrisguindon.com
   on:
