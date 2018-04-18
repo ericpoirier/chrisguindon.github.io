@@ -12,7 +12,7 @@ I have been involved in web design since the mid-90's. At 12 years old I was lea
 
 I quickly learned that I am a bit of a perfectionist and I believe that's the reason I got hooked on my job at the [Eclipse Foundation](https://www.eclipse.org/org/foundation/staff.php). I get the opportunity to work with some very talented and intelligent people on super cool projects. After more than 6 years on the job I don't think I've done the same thing twice. I often create random projects just to learn new technologies.
 
-When I am not at a computer, which is rare, I spend my time playing the drums, watching hockey or at the top of a hill snowboarding. 
+When I am not at a computer, which is rare, I spend my time playing the drums, watching hockey, playing video games or at the top of a hill snowboarding. 
 
 I am also very passionate about music and live concerts.
 
