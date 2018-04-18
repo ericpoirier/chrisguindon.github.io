@@ -1,10 +1,8 @@
 language: go
 
-go:
-  - master
-
 install:
-  - go get github.com/spf13/hugo
+  - curl -sSL https://github.com/gohugoio/hugo/releases/download/v0.39/hugo_0.39_Linux-64bit.tar.gz | tar -zxf - -C /tmp/
+  - export PATH="/tmp:$PATH"
 
 script:
   - hugo --source=site --baseUrl=https://www.chrisguindon.com
