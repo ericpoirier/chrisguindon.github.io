@@ -16,4 +16,4 @@ deploy:
   github_token: $GITHUB_TOKEN
   fqdn: www.chrisguindon.com
   on:
-    branch: master
+    branch: src
