@@ -16,7 +16,7 @@ deploy:
   target-branch: master
   provider: pages
   keep-history: true
-  skip-cleanup: false
+  skip-cleanup: true
   github_token: $GITHUB_TOKEN
   email: info@chrisguindon.com
   name: Christopher Guindon
