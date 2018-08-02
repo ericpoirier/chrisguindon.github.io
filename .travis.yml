@@ -7,6 +7,9 @@ install:
   - wget https://github.com/gohugoio/hugo/releases/download/v0.46/hugo_0.46_Linux-64bit.deb
   - sudo dpkg -i hugo*.deb
 
+before_script:
+  - npm run copy
+  
 script:
   - hugo
 
