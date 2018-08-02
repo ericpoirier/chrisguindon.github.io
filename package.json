@@ -8,7 +8,7 @@
     "copy": "mkdir -p static/fonts && cp -rf node_modules/hugo-cactus-theme/static/fonts/ static/fonts"
   },
   "napa": {
-    "hugo-cactus-theme": "digitalcraftsman/hugo-cactus-theme/"
+    "hugo-cactus-theme": "digitalcraftsman/hugo-cactus-theme#master"
   },
   "repository": {
     "type": "git",
