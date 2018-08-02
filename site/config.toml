@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Christopher Guindon - Eclipse Foundation - Lead Web Developer"
+title = "Christopher Guindon - Eclipse Foundation - Manager, Web Development at The Eclipse Foundation"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-24646327-8"
@@ -11,7 +11,7 @@ disqusShortname = "chrisguindon"
 [params]
   name = "Christopher Guindon"
   description = "Hello world! When I am not at a computer, which is rare, I spend my time playing the drums, watching hockey or at the top of a hill snowboarding. I am also very passionate about music and live concerts!"
-  bio = "Lead Web Developer at The Eclipse Foundation"
+  bio = "Manager, Web Development at The Eclipse Foundation"
   # Enter optionally your twitter account
   twitter = "chrisguindon"
   enableRSS = true
@@ -33,7 +33,7 @@ disqusShortname = "chrisguindon"
   readMore = ""
   copyright = "Copyright &copy; 2009-2018 Christopher Guindon. All Rights Reserved."
   # Sharing options and author information in posts
-  aboutAuthor = "Lead Web Developer at The Eclipse Foundation"
+  aboutAuthor = "Manager, Web Development at The Eclipse Foundation"
   tweet = ""
   share = ""
   # 404 page
