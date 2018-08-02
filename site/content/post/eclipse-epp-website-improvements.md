@@ -29,7 +29,7 @@ New features include:
 * The links to the [Eclipse Installer](https://www.eclipse.org/downloads/packages/installer), [Eclipse Packages](https://www.eclipse.org/downloads/packages/) and Eclipse Developer Builds are more accessible via a new submenu beneath our breadcrumbs.
 * Created a new [Eclipse Installer download page](https://www.eclipse.org/downloads/packages/installer) page with instructions.
 * Made improvements to our breadcrumb links which allow users to easily find every [Eclipse release](https://www.eclipse.org/downloads/packages/release) on the Eclipse Packaging site.
-* The **More Downloads** sidebar includes links to Eclipse Packages instead of the release train landing page.
+* The *More Downloads* sidebar includes links to Eclipse Packages instead of the release train landing page.
 * Links to the Eclipse Installer is available in the sidebar.
 
 Finally, this migration is also a win for the Eclipse Foundation staff. These changes to the Eclipse Packages sites allow us to streamline the Eclipse Release process and no longer requires us to manually submit Gerrit patches to publish a release.
