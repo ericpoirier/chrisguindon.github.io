@@ -32,4 +32,4 @@ New features include:
 * The *More Downloads* sidebar includes links to Eclipse Packages instead of the release train landing page.
 * Links to the Eclipse Installer is available in the sidebar.
 
-Finally, this migration is also a win for the Eclipse Foundation staff. These changes to the Eclipse Packages sites allow us to streamline the Eclipse Release process and no longer requires us to manually submit Gerrit patches to publish a release.
+Finally, this migration is also a win for the Eclipse Foundation staff. These changes to the Eclipse Packages site allow us to streamline the Eclipse Release process and no longer requires us to manually submit Gerrit patches to publish a release.
