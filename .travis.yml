@@ -10,10 +10,6 @@ install:
 script:
   - hugo
 
-cache:
-  directories:
-    - "node_modules"
-
 deploy:
   local-dir: public
   repo: chrisguindon/chrisguindon.github.io
