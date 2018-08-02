@@ -4,8 +4,7 @@
   "description": "Christopher Guindon - Eclipse Foundation - Blog",
   "main": "package.json",
   "scripts": {
-    "install": "napa",
-    "postinstall": "mkdir -p static/fonts && cp -rf node_modules/hugo-cactus-theme/static/fonts/* static/fonts"
+    "install": "napa && mkdir -p static/fonts && cp -rf node_modules/hugo-cactus-theme/static/fonts/* static/fonts"
   },
   "napa": {
     "hugo-cactus-theme": "digitalcraftsman/hugo-cactus-theme/"
