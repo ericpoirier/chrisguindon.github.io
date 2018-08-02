@@ -2,11 +2,13 @@ sudo: true
 dist: trusty
 
 install:
-  - sudo apt-get --yes install snapd
-  - sudo snap install hugo
+  - sudo apt-get --yes install autoconf libtool nasm
+  - npm install
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.46/hugo_0.46_Linux-64bit.deb
+  - sudo dpkg -i hugo*.deb
 
 script:
-  - /snap/bin/hugo --source=site --baseUrl=https://www.chrisguindon.com --destination=../public
+  - hugo
 
 deploy:
   local-dir: public
@@ -16,6 +18,8 @@ deploy:
   keep-history: true
   skip-cleanup: true
   github_token: $GITHUB_TOKEN
+  email: info@chrisguindon.com
+  name: Christopher Guindon
   fqdn: www.chrisguindon.com
   on:
     branch: src

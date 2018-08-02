@@ -3,12 +3,6 @@ My personal website.
 
 [![Build Status](https://travis-ci.org/chrisguindon/chrisguindon.github.io.svg?branch=src)](https://travis-ci.org/chrisguindon/chrisguindon.github.io)
 
-# solstice-hugo-starterkit
-
-Solstice hugo starterkit, is a tool that allows you to quickly get started with Hugo. This tools is primarly aimed for Eclipse projects interested in migrating their website to Hugo.
-
-This project was crated for [Bug 463327 - "Edit on Github" mechanism for creating project websites](https://bugs.eclipse.org/bugs/show_bug.cgi?id=463327).
-
 ## Requirements
 * [Hugo](http://gohugo.io/)
 * [Node.js](https://www.npmjs.com/)
@@ -31,28 +25,19 @@ You can install a pre-built version of node.js via the [downloads page](https://
 ## How to build
 
 ```shell
-git clone git@github.com:EclipseFdn/solstice-hugo-starterkit.git
-cd solstice-hugo-starterkit
+git clone git@github.com:chrisguindon/chrisguindon.github.io.git
+cd chrisguindon.github.io
 npm install
-npm run bower update
-npm run grunt copy
-```
-## Distribute
-If you added 'baseurl' in your configuration of your hugo site you can use the following cmd:
-
-```shell
-npm run grunt
+hugo server --disableFastRender --buildFuture
 ```
 
-Otherwise, please invoke the hugo command directly:
+## Author
 
-```shell
-hugo --source=site --destination=../build/dist --baseUrl=$BASE_URL_OF_HUGO_SITE
-```
+**Christopher Guindon (Eclipse Foundation)**
 
-## Development
-The edit task includes a local server with live reload on http://127.0.0.1:8080.
+- <https://twitter.com/chrisguindon>
+- <https://github.com/chrisguindon>
 
-```shell
-npm run grunt edit
-```
+## Copyright and license
+
+Copyright 2009-2018 Christopher Guindon. All Rights Reserved. Code released under the [Eclipse Public License Version 2.0 (EPL-2.0)](https://github.com/chrisguindon/chrisguindon.github.io/blob/src/LICENSE).

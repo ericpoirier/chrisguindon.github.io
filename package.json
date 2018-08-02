@@ -1,31 +1,26 @@
 {
   "name": "chrisguindon.github.io",
-  "version": "1.0.0",
-  "description": "Christopher Guindon - Eclipse Foundation - Lead Web Developer Blog",
-  "main": "Gruntfile.js",
+  "version": "0.0.0",
+  "description": "Christopher Guindon - Eclipse Foundation - Blog",
+  "main": "package.json",
   "scripts": {
-    "bower": "node_modules/.bin/bower",
-    "grunt": "node_modules/.bin/grunt"
+    "install": "napa"
+  },
+  "napa": {
+    "hugo-cactus-theme": "digitalcraftsman/hugo-cactus-theme"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chrisguindon/chrisguindon.github.io.git"
   },
   "author": "Christopher Guindon",
-  "license": "EPL",
+  "license": "EPL-2.0",
   "bugs": {
     "url": "https://github.com/chrisguindon/chrisguindon.github.io/issues"
   },
-  "homepage": "https://github.com/chrisguindon/chrisguindon.github.io#readme",
-  "devDependencies": {
-    "bower": "^1.8.2",
-    "grunt": "^1.0.1",
-    "grunt-cli": "^1.2.0",
-    "grunt-contrib-clean": "^1.1.0",
-    "grunt-contrib-connect": "^1.0.2",
-    "grunt-contrib-copy": "^1.0.0",
-    "grunt-contrib-imagemin": "^2.0.1",
-    "grunt-contrib-watch": "^1.0.0",
-    "grunt-gh-pages": "^2.0.0"
+  "homepage": "https://www.chrisguindon.com",
+  "devDependencies": {},
+  "dependencies": {
+    "napa": "^3.0.0"
   }
 }

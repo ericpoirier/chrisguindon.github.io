@@ -1,18 +1,16 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://www.chrisguindon.com/"
 languageCode = "en-us"
 title = "Christopher Guindon - Eclipse Foundation - Manager, Web Development at The Eclipse Foundation"
 theme = "hugo-cactus-theme"
-# Enter your tracking code to enable Google Analytics
+themesDir = "node_modules/"
 googleAnalytics = "UA-24646327-8"
-# Disable comments by leaving disqusShortname empty
 disqusShortname = "chrisguindon"
 
 [params]
   name = "Christopher Guindon"
   description = "Hello world! When I am not at a computer, which is rare, I spend my time playing the drums, watching hockey or at the top of a hill snowboarding. I am also very passionate about music and live concerts!"
   bio = "Manager, Web Development at The Eclipse Foundation"
-  # Enter optionally your twitter account
   twitter = "chrisguindon"
   enableRSS = true
 
@@ -51,4 +49,3 @@ disqusShortname = "chrisguindon"
     facebook = "https://www.facebook.com/christopher.guindon"
     github   = "https://www.github.com/chrisguindon"
     linkedin   = "https://www.linkedin.com/in/chrisguindon/"
-
