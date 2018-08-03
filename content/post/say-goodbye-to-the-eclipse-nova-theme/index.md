@@ -27,7 +27,7 @@ I believe this "clean up" exercise is our first step towards the execution of my
 
 During the summer of 2014, my team was responsible for implementing the redesign of [www.eclipse.org](https://www.eclipse.org/) via [Bug 432342 - Eclipse.org Website Redesign 2014](https://bugs.eclipse.org/bugs/show_bug.cgi?id=432342). We created a new look and feel called **Solstice** and since then, we've been busy migrating all of our web properties.
 
-![Solstice look and feel](01-solstice.jpg "Solstice look and feel")
+![Solstice look and feel](/post/say-goodbye-to-the-eclipse-nova-theme/01-solstice.jpg "Solstice look and feel")
 
 Today, I am happy to announce that it’s finally time to retire the Eclipse Nova theme. We are planning on removing the Nova theme from [eclipse.org-common](https://git.eclipse.org/r/plugins/gitiles/www.eclipse.org/eclipse.org-common) on **December 5th, 2017**.
 
