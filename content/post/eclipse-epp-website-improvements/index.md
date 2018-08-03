@@ -20,7 +20,7 @@ This week, I am happy to announce an update to the [Eclipse Packaging](https://w
 I am very proud of the work done here since the original site desperately needed some TLC. I’m hoping the new look and feel will improve the way the Eclipse IDE is downloaded by the  community!
 
 
-![Eclipse.org new home page](before-and-after.jpg "Eclipse.org new home page")
+![Eclipse.org new home page](/post/eclipse-epp-website-improvements/before-and-after.jpg "Eclipse.org new home page")
 
 
 New features include:
