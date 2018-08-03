@@ -11,7 +11,7 @@ categories = [
 ]
 +++
 
-In my previous blog post, we announced a [new look and feel](/post/quicksilver-eclipse-org-redesign/) for the Eclipse Foundation website. The [plan](/post/quicksilver-eclipse-org-redesign/#future-plans) was to roll out our new look and feel to [eclipse.org](https://www.eclipse.org) first and then gradually migrate our other web properties. 
+In my previous [blog post](/post/quicksilver-eclipse-org-redesign/), we announced a new look and feel for the Eclipse Foundation website. The [plan](/post/quicksilver-eclipse-org-redesign/#future-plans) was to roll out our new design to [eclipse.org](https://www.eclipse.org) first and then gradually migrate our other web properties. 
 
 Since then, we migrated our [Hugo theme](https://github.com/eclipsefdn/hugo-solstice-theme), [Eclipsepedia](https://wiki.eclipse.org/Main_Page), [Eclipse Community Forums](https://www.eclipse.org/forums/) and a few other Drupal sites, such as the [Eclipse User Profile](https://accounts.eclipse.org/) and the [Eclipse Foundation Blog](https://blogs.eclipse.org/) to the Quicksilver look and feel!
 
