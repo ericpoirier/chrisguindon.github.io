@@ -28,7 +28,7 @@ You can install a pre-built version of node.js via the [downloads page](https://
 git clone git@github.com:chrisguindon/chrisguindon.github.io.git
 cd chrisguindon.github.io
 npm install
-hugo server --disableFastRender --buildFuture
+hugo
 ```
 
 ## Author
