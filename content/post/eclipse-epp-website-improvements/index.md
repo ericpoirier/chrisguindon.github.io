@@ -1,6 +1,6 @@
 +++
 author = "Christopher Guindon"
-date = "2018-08-02"
+date = "2018-08-02T10:30:00-04:00"
 linktitle = "New improvements to the Eclipse Packaging website"
 title =  "New improvements to the Eclipse Packaging website"
 tags = [
@@ -20,7 +20,7 @@ This week, I am happy to announce an update to the [Eclipse Packaging](https://w
 I am very proud of the work done here since the original site desperately needed some TLC. I’m hoping the new look and feel will improve the way the Eclipse IDE is downloaded by the  community!
 
 
-![Eclipse.org new home page](/images/07-epp/epp-before-after.jpg "Eclipse.org new home page")
+![Eclipse.org new home page](before-and-after.jpg "Eclipse.org new home page")
 
 
 New features include:

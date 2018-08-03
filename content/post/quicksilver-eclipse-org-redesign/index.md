@@ -1,6 +1,6 @@
 +++
 author = "Christopher Guindon"
-date = "2018-04-10"
+date = "2018-04-10T10:30:00-04:00"
 linktitle = "Quicksilver: eclipse.org new look and feel"
 title =  "Quicksilver: eclipse.org new look and feel"
 tags = [
@@ -13,7 +13,7 @@ categories = [
     "technology"
 ]
 +++
-![Eclipse.org new home page](/images/05-quicksilver/eclipse-org-homepage.jpg "Eclipse.org new home page")
+![Eclipse.org new home page](eclipse-org-homepage.jpg "Eclipse.org new home page")
 
 I am pleased to announce a new look and feel for [www.eclipse.org](https://www.eclipse.org), codenamed **Quicksilver**, and a new logo for the Eclipse Foundation which Mike Milinkovich, the Executive Director of the Eclipse Foundation, has [blogged](https://mmilinkov.wordpress.com/2018/04/10/eclipse-foundation-new-logo/) about.
 
