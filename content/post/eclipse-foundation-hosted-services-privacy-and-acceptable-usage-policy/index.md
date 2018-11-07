@@ -17,7 +17,7 @@ The Eclipse Foundation recently made available a new [policy](https://www.eclips
 to make sure that our projects and hosted services are compliant with 
 the General Data Protection Regulation (GDPR).
 
-The [Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy](https://www.eclipse.org/org/documents/eclipse-foundation-hosted-services-privacy-and-acceptable-usage-policy.pdf) will provice guidance to folks who operate a virtual server or a website hosted either directly
+The [Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy](https://www.eclipse.org/org/documents/eclipse-foundation-hosted-services-privacy-and-acceptable-usage-policy.pdf) will provide guidance to folks who operate a virtual server or a website hosted either directly
 by the Eclipse Foundation or provided via the Eclipse Foundation’s funding in support 
 of an Eclipse Foundation open source project.
 
