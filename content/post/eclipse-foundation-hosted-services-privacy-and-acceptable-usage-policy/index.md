@@ -45,4 +45,4 @@ and why they need to keep them for that long.
 For the complete list of requirements &amp; conditions, please make sure to read the [Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy](https://www.eclipse.org/org/documents/eclipse-foundation-hosted-services-privacy-and-acceptable-usage-policy.pdf). 
 
 Please let us know if you have any questions or concerns regarding this new policy by sending 
-your questions to [privacy@eclipse.org](privacy@eclipse.org).
+your questions to [privacy@eclipse.org](mailto:privacy@eclipse.org).
