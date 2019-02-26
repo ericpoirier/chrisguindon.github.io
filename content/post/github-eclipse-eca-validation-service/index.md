@@ -22,7 +22,7 @@ The goal of this new GitHub App is to make sure that every contributor is covere
 
 For example, all contributors must be covered by the [Eclipse Foundation Contributor Agreement](https://www.eclipse.org/legal/ECA.php) (ECA) and they must include a "Signed-off-by" footer in commit messages. When contributing to an Eclipse Foundation Specification Project, contributors must be covered with version 3.0.0 or greater of the ECA.
 
-![Eclipse Foundation Contributor Validation Service: Feedback example](/post/github-eclipse-eca-validation-service/validation-feedback.jpg "Eclipse Foundation Contributor Validation Service: Feedback example" class="img-responsive")
+{{< figure src="/post/github-eclipse-eca-validation-service/validation-feedback.jpg" class="thumbnail" >}}
 
 We created a GitHub App to improve the following problems:
 
@@ -32,7 +32,7 @@ We created a GitHub App to improve the following problems:
 
 Finally, we made some improvements to our “details” page. We added a “revalidate” button to allow Eclipse users to trigger a revalidation without pushing new changes to the pull-request and we added some useful links to allow users to return to GitHub or to sign the [ECA](https://accounts.eclipse.org/user/eca).
 
-![Eclipse Foundation Contributor Validation Service: details page example](/post/github-eclipse-eca-validation-service/details-page.jpg "Eclipse Foundation Contributor Validation Service: details page example" class="img-responsive")
+{{< figure src="/post/github-eclipse-eca-validation-service/details-page.jpg" class="thumbnail" >}}
 
 We are planning to install our new Eclipse ECA Validation Github App to all our Eclipse Projects on GitHub this week and I am hoping that these changes will improve the way our users are contributing via Github. 
 
