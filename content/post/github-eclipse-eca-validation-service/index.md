@@ -18,8 +18,6 @@ draft = "false"
 
 In an effort to [provide a more robust solution](https://bugs.eclipse.org/bugs/show_bug.cgi?id=540694) to our Contributor Validation Service on GitHub, we created the [Eclipse ECA Validation](https://github.com/apps/eclipse-eca-validation) Github App that can be installed on any GitHub account, organization or repository.
 
-![Eclipse Foundation Contributor Validation Service](/post/github-eclipse-eca-validation-service/app-landing-page.jpg "Eclipse Foundation Contributor Validation Service")
-
 The goal of this new GitHub App is to make sure that every contributor is covered by the necessary legal agreements in order to contribute to all Eclipse Foundation Projects including [specification projects](https://www.eclipse.org/projects/efsp/#efsp-projects).
 
 For example, all contributors must be covered by the [Eclipse Foundation Contributor Agreement](https://www.eclipse.org/legal/ECA.php) (ECA) and they must include a "Signed-off-by" footer in commit messages. When contributing to an Eclipse Foundation Specification Project, contributors must be covered with version 3.0.0 or greater of the ECA.
