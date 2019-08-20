@@ -1,15 +1,13 @@
-sudo: true
-dist: trusty
-
+language: node_js
+node_js:
+  - "10"
+  - "12"
 install:
-  - sudo apt-get --yes install autoconf libtool nasm
-  - npm install
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.46/hugo_0.46_Linux-64bit.deb
-  - sudo dpkg -i hugo*.deb
-
+- npm install
+- wget https://github.com/gohugoio/hugo/releases/download/v0.54.0/hugo_0.54.0_Linux-64bit.deb
+- sudo dpkg -i hugo*.deb
 script:
   - hugo
-
 deploy:
   local-dir: public
   repo: chrisguindon/chrisguindon.github.io
