@@ -21,3 +21,4 @@ deploy:
   fqdn: www.chrisguindon.com
   on:
     branch: src
+    node_js: "12"
