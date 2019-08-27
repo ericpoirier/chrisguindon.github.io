@@ -1,7 +1,7 @@
 # chrisguindon.github.io
 My personal website.
 
-[![Build Status](https://travis-ci.org/chrisguindon/chrisguindon.github.io.svg?branch=src)](https://travis-ci.org/chrisguindon/chrisguindon.github.io)
+[![Build Status](https://travis-ci.org/chrisguindon/chrisguindon.github.io.svg?branch=src)](https://travis-ci.org/chrisguindon/chrisguindon.github.io) [![Netlify Status](https://api.netlify.com/api/v1/badges/f6c3e3fe-395f-419d-898d-c026c54e1a45/deploy-status)](https://app.netlify.com/sites/chrisguindon/deploys)
 
 ## Requirements
 * [Hugo](http://gohugo.io/)

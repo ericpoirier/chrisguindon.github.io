@@ -8,17 +8,3 @@ install:
 - sudo dpkg -i hugo*.deb
 script:
   - hugo
-deploy:
-  local-dir: public
-  repo: chrisguindon/chrisguindon.github.io
-  target-branch: master
-  provider: pages
-  keep-history: true
-  skip-cleanup: true
-  github_token: $GITHUB_TOKEN
-  email: info@chrisguindon.com
-  name: Christopher Guindon
-  fqdn: www.chrisguindon.com
-  on:
-    branch: src
-    node_js: "12"
