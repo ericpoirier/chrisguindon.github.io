@@ -8,3 +8,4 @@
 /.grunt/
 /hugo_cache/
 /static/fonts
+/layouts/robots.txt

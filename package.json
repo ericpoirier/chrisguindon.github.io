@@ -5,7 +5,8 @@
   "main": "package.json",
   "scripts": {
     "install": "napa",
-    "postinstall": "mkdir -p static/fonts && cp -rf node_modules/hugo-cactus-theme/static/fonts/* static/fonts"
+    "postinstall": "mkdir -p static/fonts && cp -rf node_modules/hugo-cactus-theme/static/fonts/* static/fonts",
+    "disallow_robots_txt": "echo \"User-agent: *\r\nDisallow: /\" > layouts/robots.txt"
   },
   "napa": {
     "hugo-cactus-theme": "digitalcraftsman/hugo-cactus-theme#master"

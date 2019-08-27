@@ -6,6 +6,7 @@ theme = "hugo-cactus-theme"
 themesDir = "node_modules/"
 googleAnalytics = "UA-24646327-8"
 disqusShortname = "chrisguindon"
+enableRobotsTXT = true
 
 [params]
   name = "Christopher Guindon"
