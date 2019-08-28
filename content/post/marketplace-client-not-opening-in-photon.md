@@ -13,7 +13,7 @@ categories = [
 
 The Eclipse Marketplace Client, Photon edition has a bug where it fails to open in certain cases. If nothing happens when you try to access the Eclipse Marketplace via **"Help > Eclipse Marketplace"**, please update the Marketplace Client plug-in by doing the following:
 
-![Marketplace Client not opening in Photon](/post/marketplace-client-not-opening-in-photon/mpc-update.png "Marketplace Client not opening in Photon")
+![Marketplace Client not opening in Photon](/uploads/mpc-update.png "Marketplace Client not opening in Photon")
 
 1. Go to Help > Install New Software
 2. Paste the Marketplace Client update site url into the "Work with" field: **http://download.eclipse.org/mpc/photon**
