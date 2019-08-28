@@ -1,8 +1,9 @@
 ---
+title: 'Eclipse Marketplace Client, Photon Edition not opening in certain cases'
+linktitle: 'Eclipse Marketplace Client, Photon Edition not opening in certain cases'
 author: Christopher Guindon
 date: '2018-06-29T10:30:00-04:00'
-linktitle: Eclipse Marketplace Client, Photon Edition not opening in certain cases
-title: Eclipse Marketplace Client, Photon Edition not opening in certain cases
+draft: false
 categories:
   - technology
 tags:
