@@ -1,8 +1,8 @@
 +++
 author = "Christopher Guindon"
 date = "2017-10-03T10:30:00-04:00"
-linktitle = "Eclipse Foundation Webdev Report [Q3 2017]"
-title =  "Eclipse Foundation Webdev Report [Q3 2017]"
+linktitle = "Eclipse Foundation Webdev Report (Q3 2017)"
+title =  "Eclipse Foundation Webdev Report (Q3 2017)"
 tags = [
     "eclipse",
     "webdev"
