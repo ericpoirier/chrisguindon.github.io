@@ -1,8 +1,9 @@
 ---
+title: Beam aboard the Eclipse USS
+linktitle: Beam aboard the Eclipse USS
 author: Christopher Guindon
 date: '2016-06-09T10:30:00-04:00'
-linktitle: Beam aboard the Eclipse USS
-title: Beam aboard the Eclipse USS
+draft: false
 categories:
   - technology
 tags:
