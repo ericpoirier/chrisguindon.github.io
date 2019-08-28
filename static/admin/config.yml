@@ -36,6 +36,12 @@ collections:
         widget: "boolean"
         default: false
 
+      - label: "Hidden"
+        name: "hidden"
+        required: false
+        widget: "boolean"
+        default: true
+
       - label: "Keywords"
         name: "keywords"
         required: false
