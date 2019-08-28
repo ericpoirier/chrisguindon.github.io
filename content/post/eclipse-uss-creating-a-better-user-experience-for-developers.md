@@ -1,8 +1,11 @@
 ---
+title: >-
+  The Eclipse User Storage Service: Creating a Better User Experience for
+  Developers
+linktitle: 'Eclipse USS: Creating a Better User Experience for Developers'
 author: Christopher Guindon
 date: '2016-06-20T10:30:00-04:00'
-linktitle: 'Eclipse USS: Creating a Better User Experience for Developers'
-title: 'The Eclipse User Storage Service: Creating a Better User Experience for Developers'
+draft: false
 categories:
   - technology
 tags:
