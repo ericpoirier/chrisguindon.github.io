@@ -1,8 +1,9 @@
 ---
+title: New improvements to the Eclipse Packaging website
+linktitle: New improvements to the Eclipse Packaging website
 author: Christopher Guindon
 date: '2018-08-02T10:30:00-04:00'
-linktitle: New improvements to the Eclipse Packaging website
-title: New improvements to the Eclipse Packaging website
+draft: false
 categories:
   - technology
 tags:
