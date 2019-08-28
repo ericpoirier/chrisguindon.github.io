@@ -47,7 +47,7 @@ Here's a top-level list of items that we worked on in Q3 2017:
 
 ## Api.eclipse.org
 ### Bug 516914 - Create public documentation for api.eclipse.org REST Api
-![Documentation for api.eclipse.org](/post/q3-2017-eclipse-foundation-webdev-report/api-eclipse-org.jpg "Documentation for api.eclipse.org")
+![Documentation for api.eclipse.org](/uploads/api-eclipse-org.jpg "Documentation for api.eclipse.org")
 
 The documentation for [api.eclipse.org](https://api.eclipse.org) was  all over the place and we needed to [fix](https://bugs.eclipse.org/bugs/show_bug.cgi?id=516914) that.
 
@@ -61,7 +61,7 @@ If you are interested in this project, our documentation source code is availabl
 
 
 ### Bug 502485 - Activity tab - Error reports from AERI
-![Error reports from AERI](/post/q3-2017-eclipse-foundation-webdev-report/accounts-eclipse-org-aeri-reports.jpg "Error reports from AERI")
+![Error reports from AERI](/uploads/accounts-eclipse-org-aeri-reports.jpg "Error reports from AERI")
 
 As of June 2015, with the Eclipse Mars simultaneous release, all Eclipse packages are shipped with the [Automated Error Reporting client](https://wiki.eclipse.org/EPP/Logging) (called AERI). 
 
@@ -75,7 +75,7 @@ You can try it out now by [log in](https://accounts.eclipse.org) with your Eclip
 
 ## Eclipse.org
 ### Infra 2507 - Donate Campaign Plan - Fall 2017 
-![October Donation Campaign](/post/q3-2017-eclipse-foundation-webdev-report/donate.jpg "Eclipse Foundation: October Donation Campaign")
+![October Donation Campaign](/uploads/donate.jpg "Eclipse Foundation: October Donation Campaign")
 
 On September 29, we launched the [October Donation Campaign](https://ianskerrett.wordpress.com/2017/09/29/annual-donation-campaign-end-user-support-for-the-eclipse-foundation/). The goal is to have over 1000 individual donations to the Eclipse Foundation and help support the overall community.
 
@@ -101,7 +101,7 @@ I was really excited to create these digital documents that will be included in 
 For more information, you can visit the Eclipse Foundation [press release](https://www.eclipse.org/org/press-release/20170829eplv2.php).
 
 ### Bug 261658 - status.eclipse.org
-![status.eclipse.org](/post/q3-2017-eclipse-foundation-webdev-report/status-eclipse-org.jpg "Eclipse Foundation: Status page.")
+![status.eclipse.org](/uploads/status-eclipse-org.jpg "Eclipse Foundation: Status page.")
 
 Denis, our IT Director, built this very nifty [status page](https://status.eclipse.org) and by doing so, won the award for closing the oldest [bug](https://bugs.eclipse.org/bugs/show_bug.cgi?id=261658) this quarter! 
 
@@ -149,7 +149,7 @@ You can test this new change now on the [Eclipse Marketplace](https://marketplac
 
 ## Eclipse Project Management Infrastructure (PMI)
 ### Bug 519694 - Remove solr on projects.eclipse.org
-![New project search page](/post/q3-2017-eclipse-foundation-webdev-report/projects-eclipse-org-solr.jpg "New project search page")
+![New project search page](/uploads/projects-eclipse-org-solr.jpg "New project search page")
 
 We've been using [Apache Solr](http://lucene.apache.org/solr/) for a few years now to run the Eclipse Projects search page. The search result page was very quick to load but our users often reported issues regarding the results.
 
@@ -165,7 +165,7 @@ You can try this new search page now on [projects.eclipse.org](https://projects.
 
 ## Eclipse Working Groups
 ### Bug 520121 - Need a new conference website for FOSS4G NA 2018
-![FOSS4G North America 2018](/post/q3-2017-eclipse-foundation-webdev-report/foss4g-2018.jpg "FOSS4G North America 2018")
+![FOSS4G North America 2018](/uploads/foss4g-2018.jpg "FOSS4G North America 2018")
 
 This year's [FOSS4G NA conference](https://2018.foss4g-na.org/) is a collaborative effort involving [OSGeo](http://www.osgeo.org/) and [LocationTech](https://www.locationtech.org/). The conference provides opportunities for the FOSS4G community to learn, explore, share, and collaborate on the latest ideas and information.
 
@@ -175,7 +175,7 @@ The [FOSS4G - North America 2018](https://2018.foss4g-na.org/) website is now av
 
 
 ### Bug 514542 - Create initial website for openPASS
-![OpenPASS Working Group](/post/q3-2017-eclipse-foundation-webdev-report/openpass.jpg "OpenPASS Working Group")
+![OpenPASS Working Group](/uploads/openpass.jpg "OpenPASS Working Group")
 
 The goal of the Eclipse OpenPASS Working Group is to support the development of advanced driver assistance systems (also known as autonomous driving systems) providing tools and adapters for standardized openly-available and vendor-neutral platforms for simulation of traffic scenarios.
 

@@ -39,7 +39,7 @@ The DPIA must describe what kinds of PII data will be collected and their purpos
 uploading a new version on Eclipse Bugzilla.
 
 If a service wishes to retain PII for longer than 1 year, they must produce a [Data
-Retention Policy (DRP)](/post/eclipse-foundation-hosted-services-privacy-and-acceptable-usage-policy/data-retention-policy-template.pdf) that indicates how long they plan to keep each pieces of PII data 
+Retention Policy (DRP)](/uploads/data-retention-policy-template.pdf) that indicates how long they plan to keep each pieces of PII data 
 and why they need to keep them for that long.
 
 For the complete list of requirements &amp; conditions, please make sure to read the [Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy](https://www.eclipse.org/org/documents/eclipse-foundation-hosted-services-privacy-and-acceptable-usage-policy.pdf). 
