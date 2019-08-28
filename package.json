@@ -23,7 +23,6 @@
   "homepage": "https://www.chrisguindon.com",
   "devDependencies": {},
   "dependencies": {
-    "napa": "^3.0.0",
-    "netlify-cms": "^2.9.7"
+    "napa": "^3.0.0"
   }
 }
