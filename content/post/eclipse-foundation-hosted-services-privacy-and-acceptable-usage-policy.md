@@ -1,8 +1,9 @@
 ---
+title: Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy
+linktitle: Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy
 author: Christopher Guindon
 date: '2018-11-07T16:30:00-04:00'
-linktitle: Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy
-title: Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy
+draft: false
 categories:
   - technology
 tags:
