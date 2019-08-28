@@ -1,8 +1,8 @@
 ---
 author: Christopher Guindon
 date: '2018-04-10T10:30:00-04:00'
-linktitle: 'Quicksilver: eclipse.org new look and feel'
-title: 'Quicksilver: eclipse.org new look and feel'
+linktitle: 'Quicksilver, eclipse.org new look and feel'
+title: 'Quicksilver, eclipse.org new look and feel'
 categories:
   - eclipse
   - webdev

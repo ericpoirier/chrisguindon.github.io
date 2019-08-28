@@ -1,6 +1,6 @@
 ---
-title: 'Q3 2017 - Eclipse Foundation Webdev Report'
-linktitle: 'Q3 2017 - Eclipse Foundation Webdev Report'
+title: 'Eclipse Foundation Webdev Report Q3 2017'
+linktitle: 'Eclipse Foundation Webdev Report Q3 2017'
 author: Christopher Guindon
 date: '2017-10-03T10:30:00-04:00'
 categories:
