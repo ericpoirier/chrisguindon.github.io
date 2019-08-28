@@ -1,18 +1,17 @@
-+++
-author = "Christopher Guindon"
-date = "2018-11-07T16:30:00-04:00"
-linktitle = "Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy"
-title =  "Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy"
-tags = [
-    "eclipse",
-    "policy",
-    "gdpr",
-    "privacy",
-]
-categories = [
-    "technology"
-]
-+++
+---
+author: Christopher Guindon
+date: '2018-11-07T16:30:00-04:00'
+linktitle: Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy
+title: Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy
+categories:
+  - technology
+tags:
+  - eclipse
+  - policy
+  - gdpr
+  - privacy
+---
+
 The Eclipse Foundation recently made available a new [policy](https://www.eclipse.org/org/documents/eclipse-foundation-hosted-services-privacy-and-acceptable-usage-policy.pdf) 
 to make sure that our projects and hosted services are compliant with 
 the General Data Protection Regulation (GDPR).

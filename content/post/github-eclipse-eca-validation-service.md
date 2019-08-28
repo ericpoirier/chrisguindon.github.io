@@ -1,20 +1,15 @@
-+++
-title =  "Eclipse Foundation Contributor Validation Service"
-linktitle = "Eclipse Foundation Contributor Validation Service"
-
-author = "Christopher Guindon"
-date = "2019-02-25T18:20:46-05:00"
-
-tags = [
-    "eclipse",
-    "jakartaee"
-]
-categories = [
-    "technology"
-]
-
-draft = "false"
-+++
+---
+title: Eclipse Foundation Contributor Validation Service
+linktitle: Eclipse Foundation Contributor Validation Service
+author: Christopher Guindon
+date: '2019-02-25T18:20:46-05:00'
+categories:
+  - technology
+tags:
+  - eclipse
+  - jakartaee
+draft: false
+---
 
 In an effort to [provide a more robust solution](https://bugs.eclipse.org/bugs/show_bug.cgi?id=540694) to our Contributor Validation Service on GitHub, we created the [Eclipse ECA Validation](https://github.com/apps/eclipse-eca-validation) Github App that can be installed on any GitHub account, organization or repository.
 

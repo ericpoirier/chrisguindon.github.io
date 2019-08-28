@@ -1,16 +1,14 @@
-+++
-author = "Christopher Guindon"
-date = "2017-10-03T10:30:00-04:00"
-linktitle = "Eclipse Foundation Webdev Report (Q3 2017)"
-title =  "Eclipse Foundation Webdev Report (Q3 2017)"
-tags = [
-    "eclipse",
-    "webdev"
-]
-categories = [
-    "technology"
-]
-+++
+---
+title: 'Q3 2017 - Eclipse Foundation Webdev Report'
+linktitle: 'Q3 2017 - Eclipse Foundation Webdev Report'
+author: Christopher Guindon
+date: '2017-10-03T10:30:00-04:00'
+categories:
+  - technology
+tags:
+  - eclipse
+  - webdev
+---
 
 A few months ago, I created a discussion on [Eclipse Bugzila](https://bugs.eclipse.org/bugs/show_bug.cgi?id=519264) about creating a new blog for the Eclipse Foundation Webdev team. The idea is to raise awareness about what we are currently working on and hopefully, in return, we will get some feedback from the community.
 

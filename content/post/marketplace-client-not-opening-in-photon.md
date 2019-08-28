@@ -1,15 +1,13 @@
-+++
-author = "Christopher Guindon"
-date = "2018-06-29T10:30:00-04:00"
-linktitle = "Eclipse Marketplace Client, Photon Edition not opening in certain cases"
-title =  "Eclipse Marketplace Client, Photon Edition not opening in certain cases"
-tags = [
-    "eclipse"
-]
-categories = [
-    "technology"
-]
-+++
+---
+author: Christopher Guindon
+date: '2018-06-29T10:30:00-04:00'
+linktitle: Eclipse Marketplace Client, Photon Edition not opening in certain cases
+title: Eclipse Marketplace Client, Photon Edition not opening in certain cases
+categories:
+  - technology
+tags:
+  - eclipse
+---
 
 The Eclipse Marketplace Client, Photon edition has a bug where it fails to open in certain cases. If nothing happens when you try to access the Eclipse Marketplace via **"Help > Eclipse Marketplace"**, please update the Marketplace Client plug-in by doing the following:
 

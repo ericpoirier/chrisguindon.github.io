@@ -1,15 +1,13 @@
-+++
-author = "Christopher Guindon"
-date = "2018-08-02T10:30:00-04:00"
-linktitle = "New improvements to the Eclipse Packaging website"
-title =  "New improvements to the Eclipse Packaging website"
-tags = [
-    "eclipse"
-]
-categories = [
-    "technology"
-]
-+++
+---
+author: Christopher Guindon
+date: '2018-08-02T10:30:00-04:00'
+linktitle: New improvements to the Eclipse Packaging website
+title: New improvements to the Eclipse Packaging website
+categories:
+  - technology
+tags:
+  - eclipse
+---
 
 In my previous [blog post](/post/quicksilver-eclipse-org-redesign/), we announced a new look and feel for the Eclipse Foundation website. The [plan](/post/quicksilver-eclipse-org-redesign/#future-plans) was to roll out our new design to [eclipse.org](https://www.eclipse.org) first and then gradually migrate our other web properties. 
 

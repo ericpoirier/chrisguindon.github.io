@@ -2,7 +2,7 @@
 title: Say Goodbye to the Eclipse Foundation Nova Theme
 linktitle: Say Goodbye to the Eclipse Foundation Nova Theme
 author: Christopher Guindon
-date: '2017-11-15'
+date: '2017-11-15T10:30:00-04:00'
 draft: false
 categories:
   - technology
