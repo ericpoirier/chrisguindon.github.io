@@ -1,5 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: chrisguindon/chrisguindon.github.io
+  branch: master
+  open_authoring: true
 
 publish_mode: "editorial_workflow"
 
