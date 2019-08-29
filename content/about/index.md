@@ -5,6 +5,8 @@ date: '2017-09-26T14:02:37+02:00'
 draft: false
 hidden: true
 ---
+TEST
+
 I have over 15 years of professional experience in web development and I experienced all stages of the development cycle for web projects. I am a passionate employee with strong analytical, troubleshooting and problem solving skills.
 
 I have been involved in web design since the mid-90's. At 12 years old I was learning HTML to build a french video game review website. This is when my passion for web development started.
